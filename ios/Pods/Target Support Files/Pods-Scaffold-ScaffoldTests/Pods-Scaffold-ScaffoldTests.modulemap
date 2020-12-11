@@ -1,0 +1,6 @@
+module Pods_Scaffold_ScaffoldTests {
+  umbrella header "Pods-Scaffold-ScaffoldTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
